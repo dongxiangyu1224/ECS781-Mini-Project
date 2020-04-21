@@ -5,4 +5,4 @@ RUN pip install -U -r requirements.txt
 RUN pip install requests
 RUN pip install jsonify
 EXPOSE 80
-CMD ["python", "app.py"]
+CMD ["python", "myapp.py"]

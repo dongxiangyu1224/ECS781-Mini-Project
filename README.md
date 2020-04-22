@@ -28,7 +28,7 @@ python -m pip install -U -r requirements.txt
 
 1. Run the conversion application:
 ```
-python app.py
+python myapp.py
 ```
 2. Open your browser and navigate to localhost:8080
 3. Enter user name:cloudcomputing and password:ecs781
